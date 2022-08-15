@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" type="Java Scratch" editBeforeRun="true" singleton="false">
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <module name="DSA_CLASS_CODE" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
