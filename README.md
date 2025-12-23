@@ -1,5 +1,6 @@
-# java_dsa_final
+# Java DSA
 
-it is file 
+This repository contains my basic Java and Data Structures & Algorithms (DSA) practice from my first and second semesters.  
+It includes simple Java programs and DSA problems that I solved while learning core Java concepts and problem-solving fundamentals.
 
-my personal dsa learning code
+This repository reflects my initial learning phase in Java and DSA.
